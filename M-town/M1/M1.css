@@ -1,0 +1,34 @@
+.o{
+    width: 100%
+}
+body{
+    background-image: url("../../photos/M\ logo.jpg");
+    background-position: -0.5cm -2.5cm
+}
+.h1{
+    color: rgb(82, 82, 167);
+    font-size: 200%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.h2{
+    color: rgb(160, 44, 44);
+    font-size: 200%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.P{
+    color: #D8D8D8;
+    text-align: center;
+    font-size: 700%;
+    margin-top: 5%
+}
+.table{
+    margin-top: 5%;
+    margin-left: 2%
+}
+.M2{
+    margin-left: 70%;
+    margin-top: -17%
+}
+a{
+    text-decoration: none
+}
