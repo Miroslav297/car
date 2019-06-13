@@ -1,0 +1,23 @@
+.ph{
+    position: absolute;
+    margin-left: 43%;
+    margin-top: 2%
+}
+body{
+    background-image: url("../photos/M\ logo.jpg");
+    background-position: -0.5cm -2.5cm;
+    position: absolute;
+}
+.h1{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 200%;
+    margin-top: 35%
+}
+.h2{
+    width: 40%;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 200%;
+    margin-left: 30%
+}
